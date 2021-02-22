@@ -1,4 +1,4 @@
-# programming_with_google_go
+### programming_with_google_go
 
 specialization [Programming with Google Go](https://www.coursera.org/specializations/google-golang)
 

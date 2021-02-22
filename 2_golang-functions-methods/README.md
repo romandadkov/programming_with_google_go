@@ -1,4 +1,4 @@
-# golang-functions-methods
+### golang-functions-methods
 
 [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods)
 
